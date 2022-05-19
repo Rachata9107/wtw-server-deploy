@@ -1,0 +1,168 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&family=Sansita+Swashed:wght@500&display=swap");
+
+@media screen and (max-width: 530px) {
+  .nav-brand p {
+    display: none;
+  }
+}
+
+.App {
+  text-align: center;
+  background: url("./asset/wallpaper.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100%;
+  font-family: "Rubik", sans-serif;
+  padding-bottom: 2.5rem;
+}
+
+/* NevTab */
+.nav-brand {
+  display: flex;
+  align-items: flex-end;
+}
+
+.nav-brand p {
+  font-family: "Sansita Swashed", cursive;
+  margin: 0 0 0 0.8rem;
+}
+
+.nav-end {
+  display: flex;
+}
+
+.navbar-github {
+  padding: 0;
+  margin: auto 0;
+}
+
+.navbar-github img {
+  min-height: 100%;
+  background-color: #dee2e6;
+  border-radius: 50%;
+}
+
+.search-card-overflow {
+  display: flex;
+  width: max-content;
+  margin: 0 auto;
+  gap: 1rem;
+  overflow-x: auto;
+  height: max-content;
+}
+
+.offcanvas-header .btn-close {
+  background-color: aliceblue;
+  margin: 0;
+}
+
+.search-poster-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(238, 238, 238, 0.75);
+  /* color: #EEEEEE; */
+  border-radius: 0.1rem;
+  padding: 0.5rem;
+  width: 170px;
+  height: 290px;
+}
+
+.search-poster-body img {
+  height: 180px;
+  object-fit: cover;
+  border-radius: 0.1rem;
+}
+
+.search-poster-body p {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+/* Content */
+.content-main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  padding: 3rem;
+}
+
+/* Poster */
+.poster-card {
+  display: grid;
+  width: 17rem;
+  height: 29rem;
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 0.1rem;
+}
+
+.poster-card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.7rem;
+}
+
+.poster-img {
+  max-width: 100%;
+  height: 20rem;
+  object-fit: cover;
+  border-radius: 0.2rem;
+}
+
+.poster-modal-body.card-body {
+  padding: 0.5rem;
+  width: 100%;
+  height: 100%;
+}
+
+.poster-modal-title .card-text {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  margin-bottom: 0.3rem;
+}
+
+.poster-modal-title {
+  margin-bottom: 1rem;
+}
+
+.poster-modal-img {
+  height: 20rem;
+  object-fit: cover;
+  border-radius: 0.2rem;
+}
+
+.poster-modal-preloading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 15rem;
+}
+
+.poster-modal-plot {
+  overflow: auto;
+  max-height: 8.75rem;
+}
+
+.footer-main {
+  padding: 0.4rem;
+  color: #dee2e6;
+  background-color: black;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-main p {
+  font-size: 0.8rem;
+  margin: auto;
+}

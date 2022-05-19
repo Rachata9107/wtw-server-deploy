@@ -1,0 +1,394 @@
+{
+    "id": "tt1877830",
+    "title": "The Batman",
+    "originalTitle": "",
+    "fullTitle": "The Batman (2022)",
+    "type": "Movie",
+    "year": "2022",
+    "image": "https://imdb-api.com/images/original/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_Ratio0.6762_AL_.jpg",
+    "releaseDate": "2022-03-04",
+    "runtimeMins": "175",
+    "runtimeStr": "2h 55min",
+    "plot": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "Matt Reeves",
+    "directorList": [
+        {
+            "id": "nm0716257",
+            "name": "Matt Reeves"
+        }
+    ],
+    "writers": "Matt Reeves, Peter Craig, Bill Finger",
+    "writerList": [
+        {
+            "id": "nm0716257",
+            "name": "Matt Reeves"
+        },
+        {
+            "id": "nm0185976",
+            "name": "Peter Craig"
+        },
+        {
+            "id": "nm0277730",
+            "name": "Bill Finger"
+        }
+    ],
+    "stars": "Robert Pattinson, Zoë Kravitz, Jeffrey Wright",
+    "starList": [
+        {
+            "id": "nm1500155",
+            "name": "Robert Pattinson"
+        },
+        {
+            "id": "nm2368789",
+            "name": "Zoë Kravitz"
+        },
+        {
+            "id": "nm0942482",
+            "name": "Jeffrey Wright"
+        }
+    ],
+    "actorList": [
+        {
+            "id": "nm1500155",
+            "image": "https://imdb-api.com/images/original/MV5BNzk0MDQ5OTUxMV5BMl5BanBnXkFtZTcwMDM5ODk5Mg@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Robert Pattinson",
+            "asCharacter": "Bruce Wayneas Bruce Wayne…"
+        },
+        {
+            "id": "nm2368789",
+            "image": "https://imdb-api.com/images/original/MV5BM2NmMWViOTYtOGJhYi00MzU2LWI5ODYtOGJhYzhkMWViODY5XkEyXkFqcGdeQXVyNjk2NTA3MTc@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Zoë Kravitz",
+            "asCharacter": "Selina Kyleas Selina Kyle"
+        },
+        {
+            "id": "nm0942482",
+            "image": "https://imdb-api.com/images/original/MV5BMjI1NDYyNzk4OV5BMl5BanBnXkFtZTgwNDAyMzI1MDI@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Jeffrey Wright",
+            "asCharacter": "Lt. James Gordonas Lt. James Gordon"
+        },
+        {
+            "id": "nm0268199",
+            "image": "https://imdb-api.com/images/original/MV5BMTg4NzM5NDk0MV5BMl5BanBnXkFtZTcwNzAzMTUxNw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Colin Farrell",
+            "asCharacter": "Ozas Oz…"
+        },
+        {
+            "id": "nm0200452",
+            "image": "https://imdb-api.com/images/original/MV5BMjMwMzE1OTc0OF5BMl5BanBnXkFtZTcwMDU2NTg0Nw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Paul Dano",
+            "asCharacter": "The Riddleras The Riddler"
+        },
+        {
+            "id": "nm0001806",
+            "image": "https://imdb-api.com/images/original/MV5BNzYwNjgwMjMxMF5BMl5BanBnXkFtZTcwNjUwOTc3NQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "John Turturro",
+            "asCharacter": "Carmine Falconeas Carmine Falcone"
+        },
+        {
+            "id": "nm0785227",
+            "image": "https://imdb-api.com/images/original/MV5BYTgwYmM0ZjgtMWRmZC00YTc1LWIwYWEtYTFjMTZiMDNjNWRkXkEyXkFqcGdeQXVyNjcwMjczMzE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Andy Serkis",
+            "asCharacter": "Alfredas Alfred"
+        },
+        {
+            "id": "nm0765597",
+            "image": "https://imdb-api.com/images/original/MV5BMjE0Mjg0NzE2Nl5BMl5BanBnXkFtZTcwMDE1MTkxMw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Peter Sarsgaard",
+            "asCharacter": "District Attorney Gil Colsonas District Attorney Gil Colson"
+        },
+        {
+            "id": "nm4422686",
+            "image": "https://imdb-api.com/images/original/MV5BMTcyNzEzMjY4NV5BMl5BanBnXkFtZTgwOTMzOTA5MjI@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Barry Keoghan",
+            "asCharacter": "Unseen Arkham Prisoneras Unseen Arkham Prisoner"
+        },
+        {
+            "id": "nm11123883",
+            "image": "https://imdb-api.com/images/original/MV5BZTgwYzdjZWItZTdjYy00ODE2LTk1MWUtMTRjZWU5MTNkMjIyXkEyXkFqcGdeQXVyNjkwNzEwMzY@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Jayme Lawson",
+            "asCharacter": "Bella Reálas Bella Reál"
+        },
+        {
+            "id": "nm4909175",
+            "image": "https://imdb-api.com/images/original/MV5BNWIyM2U4YzQtNjZiMS00ZmNjLTgyY2EtYjdjZmNlNmU3Y2U3XkEyXkFqcGdeQXVyNTQ0NDUzNjQ@._V1_Ratio1.0143_AL_.jpg",
+            "name": "Gil Perez-Abraham",
+            "asCharacter": "Officer Martinezas Officer Martinez"
+        },
+        {
+            "id": "nm0567945",
+            "image": "https://imdb-api.com/images/original/MV5BMTUyOTMxNzg3M15BMl5BanBnXkFtZTgwNjc3MDI3MTE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Peter McDonald",
+            "asCharacter": "Kenzieas Kenzie"
+        },
+        {
+            "id": "nm0642126",
+            "image": "https://imdb-api.com/images/original/MV5BNjM3OTc1Nzk0OF5BMl5BanBnXkFtZTcwOTEwNDA5Nw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Con O'Neill",
+            "asCharacter": "Chief Mackenzie Bockas Chief Mackenzie Bock"
+        },
+        {
+            "id": "nm0273159",
+            "image": "https://imdb-api.com/images/original/MV5BMDI5MmRmODEtNjIxZS00NWQxLWJkN2UtZDRjNjZkMzMyOWIyXkEyXkFqcGdeQXVyNDgzOTM5Nzc@._V1_Ratio1.4714_AL_.jpg",
+            "name": "Alex Ferns",
+            "asCharacter": "Commissioner Pete Savageas Commissioner Pete Savage"
+        },
+        {
+            "id": "nm0672303",
+            "image": "https://imdb-api.com/images/original/MV5BMjE1ODc2MjEzMV5BMl5BanBnXkFtZTgwNDg1MzQxMDE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Rupert Penry-Jones",
+            "asCharacter": "Mayor Don Mitchell, Jras Mayor Don Mitchell, Jr"
+        },
+        {
+            "id": "nm1017942",
+            "image": "https://imdb-api.com/images/original/MV5BMTZkY2JmNzYtNDJmZS00N2FhLTg5MDItYjY3MTFlOTFiNDRlXkEyXkFqcGdeQXVyMTMwMzk2Mg@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Kosha Engler",
+            "asCharacter": "Mrs. Mitchellas Mrs. Mitchell"
+        },
+        {
+            "id": "nm10706149",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Archie Barnes",
+            "asCharacter": "Mitchell's Sonas Mitchell's Son"
+        },
+        {
+            "id": "nm8940462",
+            "image": "https://imdb-api.com/images/original/MV5BNjdkZWI2NjEtNjI1YS00NDFkLTk1ZGEtMjE0NmM1MjJkMDcwXkEyXkFqcGdeQXVyNTIyNTU1NDc@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Janine Harouni",
+            "asCharacter": "Carlaas Carla"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Action, Crime, Drama",
+    "genreList": [
+        {
+            "key": "Action",
+            "value": "Action"
+        },
+        {
+            "key": "Crime",
+            "value": "Crime"
+        },
+        {
+            "key": "Drama",
+            "value": "Drama"
+        }
+    ],
+    "companies": "Warner Bros., 6th & Idaho Productions, DC Comics",
+    "companyList": [
+        {
+            "id": "co0002663",
+            "name": "Warner Bros."
+        },
+        {
+            "id": "co0510680",
+            "name": "6th & Idaho Productions"
+        },
+        {
+            "id": "co0038332",
+            "name": "DC Comics"
+        }
+    ],
+    "countries": "USA",
+    "countryList": [
+        {
+            "key": "USA",
+            "value": "USA"
+        }
+    ],
+    "languages": "English",
+    "languageList": [
+        {
+            "key": "English",
+            "value": "English"
+        }
+    ],
+    "contentRating": "PG-13",
+    "imDbRating": "8.7",
+    "imDbRatingVotes": "75420",
+    "metacriticRating": "73",
+    "ratings": {
+        "imDbId": "tt1877830",
+        "title": "The Batman",
+        "fullTitle": "The Batman (2022)",
+        "type": "Movie",
+        "year": "2022",
+        "imDb": "9",
+        "metacritic": "73",
+        "theMovieDb": "8.3",
+        "rottenTomatoes": "86",
+        "tV_com": "",
+        "filmAffinity": "",
+        "errorMessage": ""
+    },
+    "wikipedia": null,
+    "posters": null,
+    "images": null,
+    "trailer": null,
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": "$10,998"
+    },
+    "tagline": "Unmask The Truth",
+    "keywords": "superhero,based on comic,dc comics,batman character,penguin character",
+    "keywordList": [
+        "superhero",
+        "based on comic",
+        "dc comics",
+        "batman character",
+        "penguin character"
+    ],
+    "similars": [
+        {
+            "id": "tt0468569",
+            "title": "The Dark Knight",
+            "fullTitle": "The Dark Knight",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "9.1"
+        },
+        {
+            "id": "tt0372784",
+            "title": "Batman Begins",
+            "fullTitle": "Batman Begins",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt1345836",
+            "title": "The Dark Knight Rises",
+            "fullTitle": "The Dark Knight Rises",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt1464335",
+            "title": "Uncharted",
+            "fullTitle": "Uncharted",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.7"
+        },
+        {
+            "id": "tt12593682",
+            "title": "Bullet Train",
+            "fullTitle": "Bullet Train",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNmZkMGJlODktNzMzMC00MmY2LTkzNDgtMjUwOWFiNjFjZGIwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt5611352",
+            "title": "Man of Tomorrow",
+            "fullTitle": "Man of Tomorrow",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMGVlZmQ4NmYtNTEwMC00MTViLWE2YzUtZTM4MmIxZjBmMzQwXkEyXkFqcGdeQXVyMzEyMDc3MjU@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt0096895",
+            "title": "Batman",
+            "fullTitle": "Batman",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt10872600",
+            "title": "Spider-Man: No Way Home",
+            "fullTitle": "Spider-Man: No Way Home",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "8.7"
+        },
+        {
+            "id": "tt12361974",
+            "title": "Zack Snyder's Justice League",
+            "fullTitle": "Zack Snyder's Justice League",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt7286456",
+            "title": "Joker",
+            "fullTitle": "Joker",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt5108870",
+            "title": "Morbius",
+            "fullTitle": "Morbius",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNjU3OWY5NjktNGViMS00ZjRkLTg1MDItYjgzMWU1ODg0ODIyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt0103776",
+            "title": "Batman Returns",
+            "fullTitle": "Batman Returns",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.1"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": null
+}
